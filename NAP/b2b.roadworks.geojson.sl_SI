@@ -1,0 +1,2892 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:4326"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.52690645745065,
+          45.99750494466703
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-26T08:13:55.913+01:00",
+        "x": 13.52690645745065,
+        "y": 45.99750494466703,
+        "id": 760901,
+        "EntityId": "e449aba7-917d-4770-a67e-c1ca9933b1d3",
+        "kategorija": "R2",
+        "cesta": "R2-402, Dobrovo - Neblo",
+        "vzrok": "Delo",
+        "opis": "R2-402, Dobrovo - Neblo, na Dobrovem, izmenično enosmerni promet, popravilo bankin, do 17:00.",
+        "dodatnoPojasnilo": "popravilo bankin",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.984106742046505,
+          45.798618158579366
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-26T08:09:30.367+01:00",
+        "x": 13.984106742046505,
+        "y": 45.798618158579366,
+        "id": 760898,
+        "EntityId": "97a138b6-f410-11ef-9e1b-0e7805f00e8e",
+        "kategorija": "H4",
+        "cesta": "H4 , Razdrto - Nova Gorica",
+        "vzrok": "Delo",
+        "opis": "H4, Razdrto - Nova Gorica, predor Podnanos v smeri Vrtojbe, Italije, dela, zaprt vozni pas.",
+        "dodatnoPojasnilo": "",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.131455489172582,
+          45.521281943484624
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-26T07:55:40.493+01:00",
+        "x": 15.131455489172582,
+        "y": 45.521281943484624,
+        "id": 760894,
+        "EntityId": "7ed240a9-f3b5-4e9a-b3f1-a91c25cff3f9",
+        "kategorija": "R3",
+        "cesta": "R3-658, Dobliče - Sveta Ana - Stari Trg",
+        "vzrok": "Delo",
+        "opis": "R3-658, Dobliče - Sv. Ana - Stari trg, pri Tanči Gori, izmenično enosmerni promet, pomična zapora, vzdrževalna dela, do 17:00.",
+        "dodatnoPojasnilo": "vzdrževalna dela",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.221450665110142,
+          45.472865720954495
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-26T07:54:13.797+01:00",
+        "x": 15.221450665110142,
+        "y": 45.472865720954495,
+        "id": 760893,
+        "EntityId": "21e592dd-6543-451d-b0c8-37ce61d9a4e8",
+        "kategorija": "R1",
+        "cesta": "R1-218, Kanižarica - Vinica",
+        "vzrok": "Delo",
+        "opis": "R1-218, Kanižarica - Vinica, v Hrastu pri Vinici, izmenično enosmerni promet, pomična zapora, vzdrževalna dela, do 17:00.",
+        "dodatnoPojasnilo": "vzdrževalna dela",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.082430569447427,
+          45.56278641348661
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-26T07:52:15.3+01:00",
+        "x": 15.082430569447427,
+        "y": 45.56278641348661,
+        "id": 760892,
+        "EntityId": "e26b5da1-50a0-4152-b238-b97c54f15736",
+        "kategorija": "R1",
+        "cesta": "R1-217, Brezovica - Kanižarica",
+        "vzrok": "Delo",
+        "opis": "R1-217, Brezovica - Kanižarica, pri Miklarjih, izmenično enosmerni promet, pomična zapora, vzdrževalna dela, do 17:00.",
+        "dodatnoPojasnilo": "vzdrževalna dela",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.776137047131561,
+          45.554202679938236
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-26T07:25:20.063+01:00",
+        "x": 13.776137047131561,
+        "y": 45.554202679938236,
+        "id": 760884,
+        "EntityId": "7e02dfcc-9bd3-4667-b380-eef8da1fc8dd",
+        "kategorija": "R3",
+        "cesta": "R3-741, Začasni priključek Luka Koper",
+        "vzrok": "Delo",
+        "opis": "R3-741, Zač. Priključek Luka Koper, izmenično enosmerni promet, izvedbe del na elektro infrastrukturi, do 8. 3. 2025.",
+        "dodatnoPojasnilo": "izvedbe del na elektro infrastrukturi",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.807933908355508,
+          45.55393359083444
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-26T07:10:51.303+01:00",
+        "x": 13.807933908355508,
+        "y": 45.55393359083444,
+        "id": 760877,
+        "EntityId": "6dd96222-f408-11ef-a486-062d615a2095",
+        "kategorija": "A1",
+        "cesta": "A1-E61, E70, Koper - Ljubljana",
+        "vzrok": "Delo",
+        "opis": "A1, Koper - Ljubljana, predor Dekani v smeri Ljubljane, dela, zaprt vozni pas.",
+        "dodatnoPojasnilo": "",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.767187828494595,
+          46.16657510932926
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-26T00:07:14.943+01:00",
+        "x": 14.767187828494595,
+        "y": 46.16657510932926,
+        "id": 760859,
+        "EntityId": "606c5e99-e424-49af-bab0-775a382479e4",
+        "kategorija": "A1",
+        "cesta": "A1-E57, Maribor - Ljubljana",
+        "vzrok": "Delo",
+        "opis": "A1, Maribor - Ljubljana, priključek Blagovica - počivališče Lukovica v smeri Ljubljane, dela, oviran promet.",
+        "dodatnoPojasnilo": "",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.310353559465378,
+          46.301726940978945
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-25T07:07:22.2+01:00",
+        "x": 15.310353559465378,
+        "y": 46.301726940978945,
+        "id": 760757,
+        "EntityId": "bf8bf58e-2d36-4a50-ab1a-80c9c7fb9ce2",
+        "kategorija": "R2",
+        "cesta": "R2-430, Stranice - Višnja Vas",
+        "vzrok": "Delo",
+        "opis": "R2-430, Stranice - Višnja vas, pri Ivenci, izmenično enosmerni promet, ureditve prehoda za pešce, do 14. 3. 2025.",
+        "dodatnoPojasnilo": "ureditve prehoda za pešce",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.296632368916947,
+          45.55003888882403
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-25T06:56:22.873+01:00",
+        "x": 15.296632368916947,
+        "y": 45.55003888882403,
+        "id": 760751,
+        "EntityId": "59468b20-5723-4407-9ea8-5d6305773c84",
+        "kategorija": "RT",
+        "cesta": "RT-919, Podzemelj - Dolenjci",
+        "vzrok": "Delo",
+        "opis": "RT-919, Podzemelj - Dolenjci, pri Fučkovcih, izmenično enosmerni promet, obnova cestišča, do 20. 5. 2025.",
+        "dodatnoPojasnilo": "obnova cestišča",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.776537503121064,
+          45.540035509844444
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-25T06:51:40.417+01:00",
+        "x": 13.776537503121064,
+        "y": 45.540035509844444,
+        "id": 760750,
+        "EntityId": "4ee594fc-9b1e-4d1c-b770-e565d9a8f20c",
+        "kategorija": "R3",
+        "cesta": "R3-625, Bertoki - Gračišče",
+        "vzrok": "Delo",
+        "opis": "R3-625, Bertoki - Gračišče, v Pradah, izmenično enosmerni promet, ureditve prehoda za pešce, do 18. 3. 2025.",
+        "dodatnoPojasnilo": "ureditve prehoda za pešce",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.098807426282383,
+          46.403914827492656
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-24T08:00:03.497+01:00",
+        "x": 15.098807426282383,
+        "y": 46.403914827492656,
+        "id": 760663,
+        "EntityId": "4bebc33b-5c1f-45e0-8204-d8c16beffb04",
+        "kategorija": "R3",
+        "cesta": "R3-696, Škale - Graška g. - Šmiklavž",
+        "vzrok": "Delo",
+        "opis": "R3-696, Velenje - Graška Gora - Šmiklavž, pri Plešivcu, izmenično enosmerni promet, popravilo vozišča, do 31. 5. 2025.",
+        "dodatnoPojasnilo": "popravilo vozišča",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.91549126953107,
+          46.11620314080394
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-21T12:59:08.53+01:00",
+        "x": 13.91549126953107,
+        "y": 46.11620314080394,
+        "id": 760408,
+        "EntityId": "558b78c5-120d-4d09-92f0-3ee3e5fbbd63",
+        "kategorija": "G2",
+        "cesta": "G2-102, Dolenja Trebuša - Želin",
+        "vzrok": "Delo",
+        "opis": "G2-102, Dolenja Trebuša - Želin, pri Reki, izmenično enosmerni promet, pomična zapora, vzdrževalna dela, do 28. 2. 2025, dnevmo med 7:30 in 15. uro.",
+        "dodatnoPojasnilo": "vzdrževalna dela",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.246588313689326,
+          46.14366269220119
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-21T07:26:20.44+01:00",
+        "x": 15.246588313689326,
+        "y": 46.14366269220119,
+        "id": 760359,
+        "EntityId": "3f87efb8-c63f-4f4d-9b95-8736af777a69",
+        "kategorija": "NK",
+        "cesta": "NK-681, Laško - Breze - Šentjur",
+        "vzrok": "Delo",
+        "opis": "R3-681, Laško - Breze - Šentjur, Lahomno, izmenično enosmerni promet, gradnja kanalizacije in pločnika, do 31. 5. 2025.",
+        "dodatnoPojasnilo": "gradnja kanalizacije in pločnika",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.80937183850614,
+          46.17560906982146
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-20T21:59:51.967+01:00",
+        "x": 14.80937183850614,
+        "y": 46.17560906982146,
+        "id": 760340,
+        "EntityId": "1d2976ea-4e4a-433c-8e5c-3f7f36f931cc",
+        "kategorija": "A1",
+        "cesta": "A1-E57, Ljubljana - Maribor",
+        "vzrok": "Delo",
+        "opis": "A1, Ljubljana - Maribor, priključek Blagovica - predor Podmilj v smeri Maribora, dela, zaprt počasni pas.",
+        "dodatnoPojasnilo": "",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.318572204766811,
+          45.653084974213314
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-20T08:25:29.38+01:00",
+        "x": 15.318572204766811,
+        "y": 45.653084974213314,
+        "id": 760228,
+        "EntityId": "3076837f-72fb-4a0a-954f-1e4ffc9304dd",
+        "kategorija": "R3",
+        "cesta": "R3-661, Krmačina - Drašiči - Metlika",
+        "vzrok": "Delo",
+        "opis": "R3-661, Krmačina - Drašiči - Metlika, v Metliki, izmenično enosmerni promet, izgradnja javne razsvetljave, do 30. 4. 2025.",
+        "dodatnoPojasnilo": "izgradnja javne razsvetljave",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.061831779823336,
+          45.75703169938258
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-18T08:13:23.703+01:00",
+        "x": 14.061831779823336,
+        "y": 45.75703169938258,
+        "id": 759943,
+        "EntityId": "45ef99f8-a931-4616-b534-b8990676cc60",
+        "kategorija": "R2",
+        "cesta": "R2-444, Razdrto - Manče",
+        "vzrok": "Delo",
+        "opis": "R2-444, Razdrto - Podnanos, na Razdrtem, izmenično enosmerni promet, prekop ceste, do 8. 3. 2025.",
+        "dodatnoPojasnilo": "prekop ceste",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.871942691654388,
+          46.42168543086081
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-17T12:21:26.37+01:00",
+        "x": 15.871942691654388,
+        "y": 46.42168543086081,
+        "id": 759819,
+        "EntityId": "35e03969-8649-4927-91dd-02921bee3a61",
+        "kategorija": "R3",
+        "cesta": "R3-710, Maribor - Vurberk - Ptuj",
+        "vzrok": "Delo",
+        "opis": "R3-710, Maribor - Vurberk - Ptuj, na Ptuju, na Raičevi ulici, izmenično enosmerni promet, sanacija fasade in strehe objekta, do 14. 6. 2025.",
+        "dodatnoPojasnilo": "sanacija fasade in strehe objekta",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.061253991505614,
+          46.43380188056287
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-17T08:53:10.843+01:00",
+        "x": 14.061253991505614,
+        "y": 46.43380188056287,
+        "id": 759793,
+        "EntityId": "6dfc1435-cf9e-4789-8e6e-789417391065",
+        "kategorija": "R2",
+        "cesta": "R2-452, Hrušica - Javornik",
+        "vzrok": "Delo",
+        "opis": "R3-637, Hrušica - Javornik, na Jesenicah, na Cesti Železarjev, izmenično enosmerni promet, gradnja komunalne infrastrukture, do 17. 7. 2025.",
+        "dodatnoPojasnilo": "gradnja komunalne infrastrukture",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.973251736315927,
+          45.79684062518938
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-17T08:14:02.377+01:00",
+        "x": 13.973251736315927,
+        "y": 45.79684062518938,
+        "id": 759778,
+        "EntityId": "533613fd-3cf8-473f-a65e-a0c6c67563f0",
+        "kategorija": "R2",
+        "cesta": "R2-444, Razdrto - Manče",
+        "vzrok": "Delo",
+        "opis": "R2-444, Razdrto - Podnanos, v Porečah, izmenično enosmerni promet, prekop ceste, do 8. 3. 2025.",
+        "dodatnoPojasnilo": "prekop ceste",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.687713780818223,
+          46.113722178734264
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-17T08:03:23.007+01:00",
+        "x": 13.687713780818223,
+        "y": 46.113722178734264,
+        "id": 759775,
+        "EntityId": "bbad9525-3d72-4f31-93a6-15e8c29c3e18",
+        "kategorija": "G2",
+        "cesta": "G2-103, Ušnik - Plave",
+        "vzrok": "Delo",
+        "opis": "G2-103, Nova Gorica - Tolmin, pri Doblarju, izmenično enosmerni promet, rekonstrukcija 110 kV stikališča HE Doblar, do 29. 12. 2026.",
+        "dodatnoPojasnilo": "rekonstrukcija 110 kV stikališča HE Doblar ",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.459362624525804,
+          46.10041685997995
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-15T07:05:43.51+01:00",
+        "x": 14.459362624525804,
+        "y": 46.10041685997995,
+        "id": 759622,
+        "EntityId": "0958337a-a4d7-44b7-8365-4df54e5edaf1",
+        "kategorija": "R1",
+        "cesta": "R1-211, Jeprca - Ljubljana  (Šentvid)",
+        "vzrok": "Delo",
+        "opis": "R1-211, Ljubljana - Medvode, na Celovški cesti pred križiščem za Vižmarje, oviran promet, ureditve polnega priključka na Celovški cesti, do 30. 3. 2025.",
+        "dodatnoPojasnilo": "ureditve polnega priključka na Celovški cesti",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.988984340288319,
+          46.373662800628125
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-25T09:26:17.263+01:00",
+        "x": 15.988984340288319,
+        "y": 46.373662800628125,
+        "id": 759325,
+        "EntityId": "6475f770-331c-4aa6-80fe-59b8b69fc12c",
+        "kategorija": "R1",
+        "cesta": "R1-228, Spuhlja - Zavrč",
+        "vzrok": "Delo",
+        "opis": "R1-228, Spuhlja - Zavrč, Stojnci - Borl, izmenično enosmerni promet, gradnja kolesarske steze, do 22. 6. 2025.",
+        "dodatnoPojasnilo": "gradnja kolesarske steze",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.394466942210501,
+          46.260363405612985
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-13T08:32:54.827+01:00",
+        "x": 14.394466942210501,
+        "y": 46.260363405612985,
+        "id": 759297,
+        "EntityId": "4a7a7fdf-4ea4-4ccb-a054-4db8f1a00686",
+        "kategorija": "NK",
+        "cesta": "NK-210, Preddvor - Kr  (Primskovo)",
+        "vzrok": "Delo",
+        "opis": "R1-210, Preddvor - Kr (Primskovo), pri Britofu, izmenično enosmerni promet, postavitev transformatorske postaje, do 28. 2. 2025.",
+        "dodatnoPojasnilo": "postavitev transformatorske postaje",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.268886474376393,
+          46.59214771803985
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-12T11:03:13.503+01:00",
+        "x": 15.268886474376393,
+        "y": 46.59214771803985,
+        "id": 759142,
+        "EntityId": "facdc3fe-03cb-4615-a898-51eb13117881",
+        "kategorija": "G1",
+        "cesta": "G1-1, Radlje - Brezno",
+        "vzrok": "Delo",
+        "opis": "G1-1, Radlje - Brezno, pri Zgornjem Kozjem Vrhu, izmenično enosmerni promet, urejanje brežin, do 12. 4. 2025.",
+        "dodatnoPojasnilo": "urejanje brežin",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.90927804075409,
+          45.581295439466395
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-19T13:09:52.35+01:00",
+        "x": 13.90927804075409,
+        "y": 45.581295439466395,
+        "id": 759129,
+        "EntityId": "2a032267-9652-4fca-a9e7-c759b6b8cd4f",
+        "kategorija": "A1",
+        "cesta": "A1-E61, E70, Ljubljana - Koper",
+        "vzrok": "Delo",
+        "opis": "A1, Ljubljana - Koper, pred predorom Kastelec v smeri Kopra, dela, zaprt odstavni pas.",
+        "dodatnoPojasnilo": "",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.579019041624425,
+          46.043239551554144
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-10T09:00:01.407+01:00",
+        "x": 14.579019041624425,
+        "y": 46.043239551554144,
+        "id": 758818,
+        "EntityId": "8cc0a3d0-de7a-4056-b12f-010bd6938ab0",
+        "kategorija": "R3",
+        "cesta": "R3-645, Ljubljana  (Litijska cesta)  - Zadvor",
+        "vzrok": "Delo",
+        "opis": "R3-645, Ljubljana - Zadvor, v Ljubljani, na Litijski cesti, pri AC, izmenično enosmerni promet, ureditev komunalnih vodov in asfaltiranje, do 31. 3. 2025.",
+        "dodatnoPojasnilo": "ureditev komunalnih vodov in asfaltiranje",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.322329474919814,
+          46.3837597310018
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-10T07:59:37.877+01:00",
+        "x": 15.322329474919814,
+        "y": 46.3837597310018,
+        "id": 758791,
+        "EntityId": "279fc42e-8ba3-42a5-b86f-4b2c32b99da6",
+        "kategorija": "R2",
+        "cesta": "R2-431, Gornji Dolič - Stranice",
+        "vzrok": "Delo",
+        "opis": "R2-431, Vitanje - Stranice, na Stenici, izmenično enosmerni promet, ureditev območja avtobusnih postajališč, do 8. 5. 2025.",
+        "dodatnoPojasnilo": "ureditev območja avtobusnih postajališč",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.003189265926745,
+          45.78627586294991
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-09T13:33:02.37+01:00",
+        "x": 14.003189265926745,
+        "y": 45.78627586294991,
+        "id": 758701,
+        "EntityId": "08c7fc02-ee84-4986-8102-adbd22ca1820",
+        "kategorija": "H4",
+        "cesta": "H4 , Razdrto - Nova Gorica",
+        "vzrok": "Delo",
+        "opis": "H4, Razdrto - Nova Gorica, pokrit vkop Rebrnice 2 - predor Barnica v smeri Vrtojbe, Italije, dela, zaprt prehitevalni pas.",
+        "dodatnoPojasnilo": "",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.904855062486465,
+          45.58277041609764
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-19T13:10:19.173+01:00",
+        "x": 13.904855062486465,
+        "y": 45.58277041609764,
+        "id": 758470,
+        "EntityId": "fe514beb-a86e-4a06-a06e-942d4f3ade3a",
+        "kategorija": "A1",
+        "cesta": "A1-E61, E70, Koper - Ljubljana",
+        "vzrok": "Delo",
+        "opis": "A1, Koper - Ljubljana, predor Kastelec - priključek Kozina v smeri Ljubljane, dela, zaprt odstavni pas.",
+        "dodatnoPojasnilo": "",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.02099970142704,
+          46.324090397296025
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-05T08:29:46.197+01:00",
+        "x": 16.02099970142704,
+        "y": 46.324090397296025,
+        "id": 758260,
+        "EntityId": "e287ba2f-dab7-4ddf-b9d5-934a3ecbbd80",
+        "kategorija": "R3",
+        "cesta": "R3-692, Borl - Cirkulane - Meje",
+        "vzrok": "Delo",
+        "opis": "R3-692, Borl - Cirkulane - Meje, na Mejah, izmenično enosmerni promet, sanacija plazu, do 28. 4. 2025.",
+        "dodatnoPojasnilo": "sanacija plazu",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.70028076819332,
+          45.94956858475139
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-03T09:38:24.28+01:00",
+        "x": 13.70028076819332,
+        "y": 45.94956858475139,
+        "id": 757972,
+        "EntityId": "403bca3a-e890-4601-ad81-84678b9ef7c8",
+        "kategorija": "R3",
+        "cesta": "R3-613, Ajševica - Nova Gorica",
+        "vzrok": "Delo",
+        "opis": "R3-613, Nova Gorica - Ajševica - Selo, pri Ajševici, oviran promet, ureditve krožišč, do 28. 2. 2025.",
+        "dodatnoPojasnilo": "ureditve krožišč",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.698954320498837,
+          45.94949799369713
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-03T09:29:54.653+01:00",
+        "x": 13.698954320498837,
+        "y": 45.94949799369713,
+        "id": 757970,
+        "EntityId": "83299c9c-2fb8-4f50-bf44-4c153c4f3bf7",
+        "kategorija": "R2",
+        "cesta": "R2-444, Selo - Nova Gorica",
+        "vzrok": "Delo",
+        "opis": "R2-444, Nova Gorica - Ajševica - Selo, pri Ajševici, oviran promet, ureditve krožišč, do 28. 2. 2025.",
+        "dodatnoPojasnilo": "ureditve krožišč",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.199673622741361,
+          45.55364529923558
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-03T08:29:02.157+01:00",
+        "x": 14.199673622741361,
+        "y": 45.55364529923558,
+        "id": 757961,
+        "EntityId": "2c0251fb-1096-467b-b8bd-a36ce9bc86e9",
+        "kategorija": "R2",
+        "cesta": "R2-404, Podgrad - Ilirska Bistrica",
+        "vzrok": "Delo",
+        "opis": "R2-404, Podgrad - Ilirska Bistrica, pri Harijah, izmenično enosmerni promet, izvedbe meteorne kanalizacije in prepusta, do 3. 3. 2025.",
+        "dodatnoPojasnilo": "izvedbe meteorne kanalizacije in prepusta",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.142685031692146,
+          46.38861677196163
+        ]
+      },
+      "properties": {
+        "updated": "2025-01-29T07:45:10.54+01:00",
+        "x": 14.142685031692146,
+        "y": 46.38861677196163,
+        "id": 757319,
+        "EntityId": "0fdd8ab5-98de-4461-bc2e-c8c88ec12100",
+        "kategorija": "R2",
+        "cesta": "R2-452, Žirovnica - Lesce",
+        "vzrok": "Delo",
+        "opis": "R2-452, Žirovnica - Lesce, na Vrbi, izmenično enosmerni promet, gradnje krožišča (navezava obvoznice Vrba), do 31. 7. 2025.",
+        "dodatnoPojasnilo": "gradnje krožišča (navezava obvoznice Vrba)",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.652800147122669,
+          45.95529238205673
+        ]
+      },
+      "properties": {
+        "updated": "2025-01-29T07:38:14.65+01:00",
+        "x": 13.652800147122669,
+        "y": 45.95529238205673,
+        "id": 757310,
+        "EntityId": "f06173ec-858e-4ced-ac94-5546e497d66b",
+        "kategorija": "G2",
+        "cesta": "G2-103, Kromberk - Rožna Dolina",
+        "vzrok": "Delo",
+        "opis": "G2-103, Nova Gorica - Rožna Dolina, v Novi Gorici na Vojkovi cesti, zaprt en prometni pas, promet poteka po zunanjem pasu krožišča, do 28. 2. 2025.",
+        "dodatnoPojasnilo": "promet poteka po zunanjem pasu krožišča,",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.816649174288655,
+          46.57471154299456
+        ]
+      },
+      "properties": {
+        "updated": "2025-01-29T07:28:04.533+01:00",
+        "x": 15.816649174288655,
+        "y": 46.57471154299456,
+        "id": 757302,
+        "EntityId": "01c24cf0-5136-49fd-8cf9-63acf7ebfec8",
+        "kategorija": "R2",
+        "cesta": "R2-449, Priključek Lenart - Lenart",
+        "vzrok": "Delo",
+        "opis": "R2-449, Lenart - Gornja Radgona, pri avtocestnem priključku, izmenično enosmerni promet, gradnja kolesarske povezave, do 31. 3. 2025.",
+        "dodatnoPojasnilo": "gradnja kolesarske povezave",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.094808714171608,
+          46.087743317389865
+        ]
+      },
+      "properties": {
+        "updated": "2025-01-27T08:03:03.047+01:00",
+        "x": 14.094808714171608,
+        "y": 46.087743317389865,
+        "id": 757019,
+        "EntityId": "7b04c153-59cd-427a-82f7-cee34fc7b1bd",
+        "kategorija": "R1",
+        "cesta": "R1-210, Trebija - Sovodenj",
+        "vzrok": "Delo",
+        "opis": "R1-210, Trebija - Sovodenj, pri Fužinah, izmenično enosmerni promet, popravilo zidov in brežin, do 7. 7. 2025.",
+        "dodatnoPojasnilo": "popravilo zidov in brežin",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.89391411922212,
+          45.476673873187586
+        ]
+      },
+      "properties": {
+        "updated": "2025-01-24T07:33:19.397+01:00",
+        "x": 14.89391411922212,
+        "y": 45.476673873187586,
+        "id": 756731,
+        "EntityId": "0a30dad8-1a9c-4967-9cb2-51a662364616",
+        "kategorija": "RT",
+        "cesta": "RT-918, Grgelj - Fara",
+        "vzrok": "Delo",
+        "opis": "RT-918, Grgelj - Fara, pri Fari, izmenično enosmerni promet, zdrs podporne brežine, do 31. 12. 2025.",
+        "dodatnoPojasnilo": "zdrs podporne brežine",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.716451548320599,
+          46.28927343292877
+        ]
+      },
+      "properties": {
+        "updated": "2025-01-21T12:40:56.173+01:00",
+        "x": 15.716451548320599,
+        "y": 46.28927343292877,
+        "id": 756319,
+        "EntityId": "07e3f6b0-1464-454b-8aaa-9995c5315e72",
+        "kategorija": "R2",
+        "cesta": "R2-432, Rogatec - Majšperk",
+        "vzrok": "Delo",
+        "opis": "R2-432, Majšperk - Rogatec, pri Grdini, izmenično enosmerni promet, ureditev ceste, do 30. 4. 2025.",
+        "dodatnoPojasnilo": "ureditev ceste",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.773896570155564,
+          46.69307762009688
+        ]
+      },
+      "properties": {
+        "updated": "2025-01-20T08:01:21.303+01:00",
+        "x": 15.773896570155564,
+        "y": 46.69307762009688,
+        "id": 756129,
+        "EntityId": "1c35e073-58b3-432c-8082-d4fde52b8665",
+        "kategorija": "R2",
+        "cesta": "R2-438, Šentilj - Trate",
+        "vzrok": "Delo",
+        "opis": "R2-438, Šentilj - Trate, pri Zgornji Velki, izmenično enosmerni promet, sečnja in spravilo lesa, do 31. 3. 2025.",
+        "dodatnoPojasnilo": "sečnja in spravilo lesa",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.675595009843299,
+          46.59544959874732
+        ]
+      },
+      "properties": {
+        "updated": "2025-01-17T13:55:20.933+01:00",
+        "x": 15.675595009843299,
+        "y": 46.59544959874732,
+        "id": 755919,
+        "EntityId": "69957b7d-3173-45fd-a491-08684f9799d9",
+        "kategorija": "R2",
+        "cesta": "R2-449, Pesnica - Lenart",
+        "vzrok": "Delo",
+        "opis": "R2-449, Pesnica - Lenart, pri krožišču Pesnica, oviran promet, gradnje kanalizacijskega omrežja, do 31. 3. 2025.",
+        "dodatnoPojasnilo": "gradnje kanalizacijskega omrežja",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.073910347093902,
+          45.957819314744654
+        ]
+      },
+      "properties": {
+        "updated": "2025-01-16T07:32:17.853+01:00",
+        "x": 15.073910347093902,
+        "y": 45.957819314744654,
+        "id": 755715,
+        "EntityId": "f459eca9-1aef-470b-a9e9-4a2dc0e04779",
+        "kategorija": "R1",
+        "cesta": "R1-215, Trebnje - Mokronog",
+        "vzrok": "Delo",
+        "opis": "R1-215, Trebnje - Mokronog, Mirna - Šentrupert, izmenično enosmerni promet, gradnje obvoznice - 3. etapa, do 25. 7. 2025.",
+        "dodatnoPojasnilo": "gradnje obvoznice - 3. etapa",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.621989836536342,
+          45.87860911299206
+        ]
+      },
+      "properties": {
+        "updated": "2025-01-15T07:22:42.867+01:00",
+        "x": 15.621989836536342,
+        "y": 45.87860911299206,
+        "id": 755562,
+        "EntityId": "8e1f04df-1c2c-42b3-b94e-850dc21bd5c5",
+        "kategorija": "R3",
+        "cesta": "R3-675, Čatež Ob Savi - Mokrice",
+        "vzrok": "Delo",
+        "opis": "R3-675, Čatež ob Savi - Mokrice, pri Prilipah, izmenično enosmerni promet, ureditev avtobusne postaje Prilipe, do 17. 3. 2025.",
+        "dodatnoPojasnilo": "ureditev avtobusne postaje Prilipe",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.671866799089836,
+          45.92962184034758
+        ]
+      },
+      "properties": {
+        "updated": "2025-01-13T09:22:29.253+01:00",
+        "x": 14.671866799089836,
+        "y": 45.92962184034758,
+        "id": 755310,
+        "EntityId": "a46112e1-791a-4509-bc08-f54b43b99d0f",
+        "kategorija": "R3",
+        "cesta": "R3-647, Mlačevo - Rašica",
+        "vzrok": "Delo",
+        "opis": "R3-647, Mlačevo - Rašica, izmenično enosmerni promet, rekonstrukcija ceste z ukrepi za dvoživke, do 25. 12. 2025, prepoved za tovorna vozila nad 7,5, promet je preusmerjen po cesti Grosuplje - Škofljica - Rašica - Videm - Veliko Mlačevo in obratno.",
+        "dodatnoPojasnilo": "rekonstrukcija ceste z ukrepi za dvoživke",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.02460674442216,
+          46.420953462646956
+        ]
+      },
+      "properties": {
+        "updated": "2025-01-11T05:54:24.25+01:00",
+        "x": 15.02460674442216,
+        "y": 46.420953462646956,
+        "id": 755139,
+        "EntityId": "c04f6a78-1a12-423c-b24f-1f15d6a5f344",
+        "kategorija": "R2",
+        "cesta": "R2-425, Šentvid - Šoštanj",
+        "vzrok": "Delo",
+        "opis": "R2-425, Šentvid - Šoštanj, pri Zavodnju, izmenično enosmerni promet, ureditve ceste, do 31. 5. 2025.",
+        "dodatnoPojasnilo": "ureditve ceste",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.683725054646334,
+          45.95874510418278
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-24T10:04:42.74+01:00",
+        "x": 15.683725054646334,
+        "y": 45.95874510418278,
+        "id": 755137,
+        "EntityId": "d5acba7a-8e33-4a86-892f-d7cc10f68951",
+        "kategorija": "R1",
+        "cesta": "R1-219, Bizeljsko - Čatež",
+        "vzrok": "Delo",
+        "opis": "R1-219, Bizeljsko - Čatež, pri Župelevcu, izmenično enosmerni promet, postavitev dodatnih elementov za zaščito motoristov, do 31. 3. 2025.",
+        "dodatnoPojasnilo": "postavitev dodatnih elementov za zaščito motoristov",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.930055082407689,
+          46.04483669873262
+        ]
+      },
+      "properties": {
+        "updated": "2025-01-10T16:49:32.083+01:00",
+        "x": 13.930055082407689,
+        "y": 46.04483669873262,
+        "id": 755123,
+        "EntityId": "da3f26c5-5930-46ea-ab2d-d0551c406310",
+        "kategorija": "R3",
+        "cesta": "R3-610, Dolenja Trebuša - Spodnja Idrija",
+        "vzrok": "Delo",
+        "opis": "R3-610, Dolenja Trebuša - Spodnja Idrija, pri Gorenji Kanomlji, izmenično enosmerni promet, popravilo podpornega zidu, do 30. 9. 2025.",
+        "dodatnoPojasnilo": "popravilo podpornega zidu",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.148971676341104,
+          45.99384963767582
+        ]
+      },
+      "properties": {
+        "updated": "2025-01-13T11:46:04.6+01:00",
+        "x": 14.148971676341104,
+        "y": 45.99384963767582,
+        "id": 755122,
+        "EntityId": "c610d5b7-faeb-4c0f-9540-3123ec27b7d0",
+        "kategorija": "R2",
+        "cesta": "R2-408, Logatec - Žiri",
+        "vzrok": "Delo",
+        "opis": "R2-408, Logatec - Žiri, pri odcepu za Zavratec, izmenično enosmerni promet, popravilo podpornega zidu, do 31. 5. 2025.",
+        "dodatnoPojasnilo": "popravilo podpornega zidu",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.528611699398414,
+          45.997834794004646
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-25T07:24:08.033+01:00",
+        "x": 13.528611699398414,
+        "y": 45.997834794004646,
+        "id": 755051,
+        "EntityId": "b9c276ef-5bb5-40d0-ad3f-e0bb0d62f997",
+        "kategorija": "R2",
+        "cesta": "R2-402, Gonjače - Dobrovo",
+        "vzrok": "Delo",
+        "opis": "R2-402, Gonjače - Dobrovo, na Dobrovem, izmenično enosmerni promet, ureditev ceste, do 29. 9. 2025.",
+        "dodatnoPojasnilo": "ureditev ceste",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.668947262714708,
+          45.59614275445319
+        ]
+      },
+      "properties": {
+        "updated": "2025-01-07T09:03:45.427+01:00",
+        "x": 14.668947262714708,
+        "y": 45.59614275445319,
+        "id": 754639,
+        "EntityId": "c0272e2f-93d9-436c-9a8a-9a41d09d846a",
+        "kategorija": "R3",
+        "cesta": "R3-653, Hrib - Trava - Podplanina",
+        "vzrok": "Delo",
+        "opis": "R3-653, Hrib - Trava - Podplanina, pri Travi, izmenično enosmerni promet, zdrs podporne brežine in dela ceste - elementar.",
+        "dodatnoPojasnilo": "zdrs podporne brežine in dela ceste - elementar",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.428027082875387,
+          46.19313077326866
+        ]
+      },
+      "properties": {
+        "updated": "2025-01-30T07:52:39.007+01:00",
+        "x": 15.428027082875387,
+        "y": 46.19313077326866,
+        "id": 754631,
+        "EntityId": "76133a37-4016-480a-9536-e1c6a0d4d43f",
+        "kategorija": "R2",
+        "cesta": "R2-423, Črnolica - Lesično",
+        "vzrok": "Delo",
+        "opis": "R2-423, Črnolica - Lesično, Črnolica - Gorica pri Slivnici, izmenično enosmerni promet, obnova vozišča, do 20. 2. 2025.",
+        "dodatnoPojasnilo": "obnova vozišča",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.599997397874052,
+          46.23939470745238
+        ]
+      },
+      "properties": {
+        "updated": "2025-01-10T09:49:24.53+01:00",
+        "x": 15.599997397874052,
+        "y": 46.23939470745238,
+        "id": 754630,
+        "EntityId": "5783381d-f6cb-4eb7-975b-b2b80d273418",
+        "kategorija": "G2",
+        "cesta": "G2-107, Podplat - Rogatec",
+        "vzrok": "Delo",
+        "opis": "G2-107, Podplat - Rogaška Slatina, pri Tekačevem, izmenično enosmerni promet, gradnja kolesarske povezave, do 30. 3. 2025.",
+        "dodatnoPojasnilo": "gradnja kolesarske povezave",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.861330149013583,
+          45.55125535004067
+        ]
+      },
+      "properties": {
+        "updated": "2025-01-06T10:19:11.2+01:00",
+        "x": 14.861330149013583,
+        "y": 45.55125535004067,
+        "id": 754499,
+        "EntityId": "1dc8caa0-78d7-4405-bb67-dd8933ce3923",
+        "kategorija": "G2",
+        "cesta": "G2-106, Livold - Fara",
+        "vzrok": "Delo",
+        "opis": "G2-106, Livold - Fara, na Moravi, izmenično enosmerni promet, ureditve avtobusnih postajališč, do 10. 4. 2025.",
+        "dodatnoPojasnilo": "ureditve avtobusnih postajališč",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.69806940543595,
+          45.54157007736601
+        ]
+      },
+      "properties": {
+        "updated": "2025-01-24T07:25:26.627+01:00",
+        "x": 14.69806940543595,
+        "y": 45.54157007736601,
+        "id": 754495,
+        "EntityId": "82087de2-57fc-4dd3-993d-563d78631003",
+        "kategorija": "NK",
+        "cesta": "NK-656, (Dragarji)  Zgornji Čačič - Osilnica",
+        "vzrok": "Delo",
+        "opis": "R3-656, (Dragarji) Zgornji Čačič - Osilnica, pri Podvrhu, izmenično enosmerni promet, sanacije plazu, do 31. 5. 2025.",
+        "dodatnoPojasnilo": "sanacije plazu",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.37071550317157,
+          46.663998435469935
+        ]
+      },
+      "properties": {
+        "updated": "2025-01-06T08:51:43.55+01:00",
+        "x": 16.37071550317157,
+        "y": 46.663998435469935,
+        "id": 754494,
+        "EntityId": "6daf21bc-86be-4815-9a52-a9b2aa0ca232",
+        "kategorija": "R2",
+        "cesta": "R2-439, Kobilje - Dobrovnik",
+        "vzrok": "Delo",
+        "opis": "R2-439, Kobilje - Dobrovnik, pri Kobilju, izmenično enosmerni promet, gradnja kolesarske poti, do 30. 3. 2025.",
+        "dodatnoPojasnilo": "gradnja kolesarske poti",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.11113922112201,
+          45.584758130902074
+        ]
+      },
+      "properties": {
+        "updated": "2025-01-06T08:44:48.663+01:00",
+        "x": 14.11113922112201,
+        "y": 45.584758130902074,
+        "id": 754493,
+        "EntityId": "ab7b021b-bcff-4796-9f72-64a14786dd92",
+        "kategorija": "RT",
+        "cesta": "RT-940, Zavrhek - Artviže - Pregarje",
+        "vzrok": "Delo",
+        "opis": "RT-940, Zavrhek - Artviže - Pregarje, Tatre - Pregarje, izmenično enosmerni promet, pomična zapora, izgradnje vodovoda in sanacije vozišča, do 30. 6. 2025.",
+        "dodatnoPojasnilo": "izgradnje vodovoda in sanacije vozišča",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.829282050972369,
+          45.75836123245505
+        ]
+      },
+      "properties": {
+        "updated": "2025-01-06T08:36:54.96+01:00",
+        "x": 13.829282050972369,
+        "y": 45.75836123245505,
+        "id": 754490,
+        "EntityId": "b145939e-e957-4cfb-b0cf-8d1192646b6b",
+        "kategorija": "R3",
+        "cesta": "R3-618, Krajna vas - Dutovlje",
+        "vzrok": "Delo",
+        "opis": "R3-618, Krajna vas - Dutovlje, v Dutovljah, izmenično enosmerni promet, ureditve ceste, do 26. 6. 2025.",
+        "dodatnoPojasnilo": "ureditve ceste",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.89137517549771,
+          46.45651354000212
+        ]
+      },
+      "properties": {
+        "updated": "2024-12-13T11:50:43.033+01:00",
+        "x": 15.89137517549771,
+        "y": 46.45651354000212,
+        "id": 752331,
+        "EntityId": "ba6799c2-a977-4e4b-9759-d2ca9cf31f55",
+        "kategorija": "R1",
+        "cesta": "R1-229, Rogoznica - Senarska",
+        "vzrok": "Delo",
+        "opis": "R1-229, Ptuj - Senarska, pri Placarju, izmenično enosmerni promet, gradnja kanalizacije, do 30. 4. 2025.",
+        "dodatnoPojasnilo": "gradnja kanalizacije",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.615466642466956,
+          46.03868628655878
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-05T16:52:45.443+01:00",
+        "x": 15.615466642466956,
+        "y": 46.03868628655878,
+        "id": 752122,
+        "EntityId": "93e70472-dec1-4e81-8135-80f310c73cee",
+        "kategorija": "R2",
+        "cesta": "R2-423, Podsreda - Bistrica Ob Sotli",
+        "vzrok": "Delo",
+        "opis": "R2-423, Bistrica Ob Sotli - Podsreda, Lesjakov Graben - Trebče, izmenično enosmerni promet, obnova cestišča in izvedba ukrepov za dvoživke, do 22. 4. 2025.",
+        "dodatnoPojasnilo": "obnova cestišča in izvedba ukrepov za dvoživke",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.927971906156124,
+          45.92885485504281
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-15T13:10:11.37+01:00",
+        "x": 14.927971906156124,
+        "y": 45.92885485504281,
+        "id": 751466,
+        "EntityId": "12aec8e4-dd8b-48ff-9aa7-6e3d81f2c471",
+        "kategorija": "A2",
+        "cesta": "A2-E70, Ljubljana - Obrežje",
+        "vzrok": "Delo",
+        "opis": "A2, Ljubljana - Obrežje, pokrit vkop Medvedjek 1 - priključek Trebnje zahod v smeri Novega mesta, dela, promet poteka po dveh zoženih pasovih.",
+        "dodatnoPojasnilo": "",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.034119254668736,
+          45.62554925699225
+        ]
+      },
+      "properties": {
+        "updated": "2024-12-04T09:03:31.887+01:00",
+        "x": 14.034119254668736,
+        "y": 45.62554925699225,
+        "id": 750900,
+        "EntityId": "c1848774-4db4-4cbd-8c88-0a6a4de4fd12",
+        "kategorija": "RT",
+        "cesta": "RT-940, Zavrhek - Artviže - Pregarje",
+        "vzrok": "Delo",
+        "opis": "RT-940, Zavrhek - Artviže, na Varejah, izmenično enosmerni promet, sanacija vozišča, do 10. 4. 2025.",
+        "dodatnoPojasnilo": "sanacija vozišča",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.402797772994077,
+          46.58643986204401
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-25T08:30:33.34+01:00",
+        "x": 15.402797772994077,
+        "y": 46.58643986204401,
+        "id": 750230,
+        "EntityId": "eba0fbd4-7110-4a02-ba4b-bbee14b551e5",
+        "kategorija": "R3",
+        "cesta": "R3-706, Ožbalt - Zg. Kapla",
+        "vzrok": "Delo",
+        "opis": "R3-706, Ožbalt - Zg. Kapla, pri Ožbaltu, izmenično enosmerni promet, zaradi padanja kamenja z brežine.",
+        "dodatnoPojasnilo": "zaradi padanja kamenja z brežine",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.912530632889478,
+          45.45652359126324
+        ]
+      },
+      "properties": {
+        "updated": "2024-11-28T09:22:59.397+01:00",
+        "x": 13.912530632889478,
+        "y": 45.45652359126324,
+        "id": 750016,
+        "EntityId": "6dcf3e0d-50c7-436c-9122-2f34ad00aee2",
+        "kategorija": "R1",
+        "cesta": "R1-208, Gračišče - Sočerga",
+        "vzrok": "Delo",
+        "opis": "R1-208, Gračišče - Sočerga, pri MP Sočerga, izmenično enosmerni promet, sanacija podpornih zidov in vozišča, do 19. 4. 2025.",
+        "dodatnoPojasnilo": "sanacija podpornih zidov in vozišča",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.937275271933302,
+          46.32497575351636
+        ]
+      },
+      "properties": {
+        "updated": "2024-11-27T10:08:18.133+01:00",
+        "x": 15.937275271933302,
+        "y": 46.32497575351636,
+        "id": 749814,
+        "EntityId": "1333abe4-f19f-45f9-b9d2-c011398b813c",
+        "kategorija": "R3",
+        "cesta": "R3-690, Tržec - Zgornji Leskovec",
+        "vzrok": "Delo",
+        "opis": "R3-690, Tržec - Zg. Leskovec, pri Zgornjem Leskovcu, izmenično enosmerni promet, ureditev ceste in izgradnja pločnika, do 28. 4. 2025.",
+        "dodatnoPojasnilo": "ureditev ceste in izgradnja pločnika",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.44108995423276,
+          46.51768047435272
+        ]
+      },
+      "properties": {
+        "updated": "2024-11-25T11:59:14.213+01:00",
+        "x": 16.44108995423276,
+        "y": 46.51768047435272,
+        "id": 749470,
+        "EntityId": "fcbbee23-d788-49c0-a440-b0f918d90e1b",
+        "kategorija": "G2",
+        "cesta": "G2-109, Lendava - Petišovci",
+        "vzrok": "Delo",
+        "opis": "G2-109, Lendava - mejni prehod Petišovci, pri Petišovcih, na mostu čez Muro, popolna zapora, promet poteka ob gradbišču izmenično enosmerno, nadomestna gradnja mostu, do 18. 7. 2025.",
+        "dodatnoPojasnilo": "nadomestna gradnja mostu",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.67993296587794,
+          46.52196313507891
+        ]
+      },
+      "properties": {
+        "updated": "2024-12-16T06:13:44.157+01:00",
+        "x": 15.67993296587794,
+        "y": 46.52196313507891,
+        "id": 749439,
+        "EntityId": "e8a6bed1-2676-41d6-bedc-74ad3001a27d",
+        "kategorija": "G1",
+        "cesta": "G1-1, Maribor  (Tržaška cesta)  - Miklavž",
+        "vzrok": "Delo",
+        "opis": "G1-1, Miklavž na Dravskem Polju - Maribor (Ptujska cesta), pri AC priključku, oviran promet, gradnja kablovoda, do 30. 3. 2025. Dela so večinoma na pločniku in kolesarski stezi, občasno je oviran promet tudi na vozišču.",
+        "dodatnoPojasnilo": "gradnja kablovoda ",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.74944196038154,
+          45.54090384072375
+        ]
+      },
+      "properties": {
+        "updated": "2024-11-20T07:35:29.92+01:00",
+        "x": 13.74944196038154,
+        "y": 45.54090384072375,
+        "id": 748723,
+        "EntityId": "1bf17c61-c811-4dcd-8b79-b8122f603a65",
+        "kategorija": "NK",
+        "cesta": "NK-741, Bertoki _ Koper  (Škocjan)",
+        "vzrok": "Delo",
+        "opis": "R3-741, Bertoki - Koper, izmenično enosmerni promet, izgradnje fekalne kanalizacije, do 22. 3. 2025.",
+        "dodatnoPojasnilo": "izgradnje fekalne kanalizacije",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.95251464204157,
+          46.32447269398451
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-20T08:02:19.72+01:00",
+        "x": 14.95251464204157,
+        "y": 46.32447269398451,
+        "id": 748327,
+        "EntityId": "84d928f5-7376-4a5c-86d0-9b11ee71e9ae",
+        "kategorija": "R1",
+        "cesta": "R1-225, Radmirje - Mozirje",
+        "vzrok": "Delo",
+        "opis": "R1-225, Radmirje - Mozirje, v Nazarjah, izmenično enosmerni promet, gradnje trafo postaje in kablovoda, do 30. 4. 2025.",
+        "dodatnoPojasnilo": "gradnje trafo postaje in kablovoda",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.532176615913894,
+          46.286211717370854
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-03T08:32:02.027+01:00",
+        "x": 13.532176615913894,
+        "y": 46.286211717370854,
+        "id": 747870,
+        "EntityId": "9d9e9155-72ee-4945-8a8b-bca0993346dc",
+        "kategorija": "R1",
+        "cesta": "R1-203, Žaga - Kobarid",
+        "vzrok": "Delo",
+        "opis": "R1-203, Žaga - Kobarid, pri Trnovem ob Soči, izmenično enosmerni promet, kratkotrajne popolne zapore (do 15 minut), izvedbe ukrepov za zaščito pred padajočim kamenjem.",
+        "dodatnoPojasnilo": "izvedbe ukrepov za zaščito pred padajočim kamenjem",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.395098152642005,
+          46.01850888973083
+        ]
+      },
+      "properties": {
+        "updated": "2024-12-30T10:42:07.99+01:00",
+        "x": 14.395098152642005,
+        "y": 46.01850888973083,
+        "id": 747410,
+        "EntityId": "1bdb033b-68a2-479a-9375-4f91dc004386",
+        "kategorija": "A1",
+        "cesta": "A1-E61, E70, Koper - Ljubljana",
+        "vzrok": "Delo",
+        "opis": "A1, Koper - Ljubljana, priključek Vrhnika - priključek Brezovica v smeri Ljubljane, dela, promet poteka po dveh zoženih pasovih.",
+        "dodatnoPojasnilo": "",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.408840555840628,
+          46.02100392963132
+        ]
+      },
+      "properties": {
+        "updated": "2024-12-30T10:41:18.423+01:00",
+        "x": 14.408840555840628,
+        "y": 46.02100392963132,
+        "id": 747408,
+        "EntityId": "ff5b86b3-7f83-4f59-8116-258bf8bb7d25",
+        "kategorija": "A1",
+        "cesta": "A1-E61, E70, Ljubljana - Koper",
+        "vzrok": "Delo",
+        "opis": "A1, Ljubljana - Koper, priključek Brezovica - priključek Vrhnika v smeri Kopra, dela, promet poteka po dveh zoženih pasovih.",
+        "dodatnoPojasnilo": "",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.441025696712936,
+          46.15296639326364
+        ]
+      },
+      "properties": {
+        "updated": "2025-01-30T07:56:09.907+01:00",
+        "x": 15.441025696712936,
+        "y": 46.15296639326364,
+        "id": 747300,
+        "EntityId": "6a30d28f-d541-4d51-b28b-59f7d67f1180",
+        "kategorija": "R2",
+        "cesta": "R2-423, Črnolica - Lesično",
+        "vzrok": "Delo",
+        "opis": "R2-423, Črnolica - Lesično, Košnica - Jelce, izmenično enosmerni promet, obnova vozišča, do 20. 5. 2025.",
+        "dodatnoPojasnilo": "obnova vozišča",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.464433549853423,
+          46.097124946090844
+        ]
+      },
+      "properties": {
+        "updated": "2024-11-09T06:25:08.937+01:00",
+        "x": 14.464433549853423,
+        "y": 46.097124946090844,
+        "id": 747026,
+        "EntityId": "3c12339b-1f3c-4c8d-8619-883bdf9246c3",
+        "kategorija": "G1",
+        "cesta": "G1-8, Ljubljana  (Šentvid - Obvoznica)",
+        "vzrok": "Delo",
+        "opis": "G1-8, Ljubljana - Medvode, na Celovški cesti med križiščema s Prušnikovo ulico in Kosmačevo ulico, oviran promet, pripravljalna dela za gradnjo polnega priključka iz avtocestnega predora Šentvid na Celovško cesto.",
+        "dodatnoPojasnilo": "pripravljalna dela za gradnjo polnega priključka iz avtocestnega predora Šentvid na Celovško cesto ",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.564623393195316,
+          46.23705025920762
+        ]
+      },
+      "properties": {
+        "updated": "2025-01-27T13:55:44.803+01:00",
+        "x": 15.564623393195316,
+        "y": 46.23705025920762,
+        "id": 746912,
+        "EntityId": "f2023cd5-a84f-490d-85b1-b44425ec9b83",
+        "kategorija": "G2",
+        "cesta": "G2-107, Mestinje - Podplat",
+        "vzrok": "Delo",
+        "opis": "G2-107, Mestinje - Podplat, Mestinje, oviran promet, gradnja kolesarske steze, do 30. 3. 2025.",
+        "dodatnoPojasnilo": "gradnja kolesarske steze",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.046608916640286,
+          45.757817618962314
+        ]
+      },
+      "properties": {
+        "updated": "2025-01-26T20:30:59.8+01:00",
+        "x": 14.046608916640286,
+        "y": 45.757817618962314,
+        "id": 746007,
+        "EntityId": "8a59015a-9a85-4d2d-94cc-eaac16509d22",
+        "kategorija": "H4",
+        "cesta": "H4 , Razdrto - Nova Gorica",
+        "vzrok": "Delo",
+        "opis": "H4, Razdrto - Nova Gorica, razcep Nanos - pokrit vkop Rebrnice 1 v smeri Vrtojbe, Italije, dela, zaprt vozni pas.",
+        "dodatnoPojasnilo": "",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.098256335540565,
+          46.79481763441314
+        ]
+      },
+      "properties": {
+        "updated": "2025-01-06T08:54:52.803+01:00",
+        "x": 16.098256335540565,
+        "y": 46.79481763441314,
+        "id": 745981,
+        "EntityId": "0932e7cb-e55a-4be3-90c8-84e7ef0a94fc",
+        "kategorija": "R3",
+        "cesta": "R3-716, Grad",
+        "vzrok": "Delo",
+        "opis": "R3-716, Grad - Kuzma, pri Gradu, izmenično enosmerni promet, sanacija vkopne brežine in pobočja, do 28. 2. 2026.",
+        "dodatnoPojasnilo": "sanacija vkopne brežine in pobočja",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.470273110618015,
+          46.33284906323926
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-02T21:31:46.227+01:00",
+        "x": 15.470273110618015,
+        "y": 46.33284906323926,
+        "id": 745827,
+        "EntityId": "0c5cce7d-da82-478d-b6f9-a533e429607b",
+        "kategorija": "A1",
+        "cesta": "A1-E57, Maribor - Ljubljana",
+        "vzrok": "Delo",
+        "opis": "A1, Maribor - Ljubljana, priključek Sl. Konjice - priključek Dramlje v smeri Ljubljane, dela, zaprt počasni pas.",
+        "dodatnoPojasnilo": "",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.828710940441898,
+          46.1611086709516
+        ]
+      },
+      "properties": {
+        "updated": "2025-01-06T08:13:39.01+01:00",
+        "x": 13.828710940441898,
+        "y": 46.1611086709516,
+        "id": 744504,
+        "EntityId": "714c532f-7a41-491a-8ca1-6c290183732f",
+        "kategorija": "R2",
+        "cesta": "R2-403, Kneža - Podbrdo",
+        "vzrok": "Delo",
+        "opis": "R2-403, Kneža - Podbrdo, v Kneži, oviran promet, gradnje kanalizacijskega omrežja Kneža. Občasno polovična zapora.",
+        "dodatnoPojasnilo": "gradnje kanalizacijskega omrežja Kneža",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.557774698983204,
+          45.94783851107075
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-06T07:40:45.777+01:00",
+        "x": 15.557774698983204,
+        "y": 45.94783851107075,
+        "id": 744222,
+        "EntityId": "5e1c9654-bd66-4f1e-811f-3597b2b6755a",
+        "kategorija": "R1",
+        "cesta": "R1-220, Krško - Brežice",
+        "vzrok": "Delo",
+        "opis": "R1-220, Krško - Brežice, Dolenja vas pri Krškem, oviran promet, gradnja avtobusnih postajališč.",
+        "dodatnoPojasnilo": "gradnja avtobusnih postajališč",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.462306131171067,
+          46.53296550258952
+        ]
+      },
+      "properties": {
+        "updated": "2024-10-09T07:55:02.123+02:00",
+        "x": 15.462306131171067,
+        "y": 46.53296550258952,
+        "id": 741307,
+        "EntityId": "0730a029-4518-408a-a123-a3b2a14d0fc8",
+        "kategorija": "R3",
+        "cesta": "R3-705, Ruše - Puščava",
+        "vzrok": "Delo",
+        "opis": "R3-705, Ruše - Puščava, pri Smolniku, izmenično enosmerni promet, gradnje kanalizacijskega omrežja, do 28. 2. 2025. Lokacija zapore se bo do konca februarja 2025 večkrat spremenila. Dela so predvidena v dolžini 10 kilometrov.",
+        "dodatnoPojasnilo": "gradnje kanalizacijskega omrežja",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.442140181011357,
+          46.408322403989416
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-10T07:41:37.413+01:00",
+        "x": 15.442140181011357,
+        "y": 46.408322403989416,
+        "id": 741045,
+        "EntityId": "382f73ab-2e39-49bf-804b-07e55ae74930",
+        "kategorija": "RT",
+        "cesta": "RT-930, Pesek - Oplotnica",
+        "vzrok": "Delo",
+        "opis": "RT-930, Pesek - Oplotnica, pri Lačni Gori, izmenično enosmerni promet, sanacija plazu in vozišča.",
+        "dodatnoPojasnilo": "sanacija plazu in vozišča",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.490012579424013,
+          46.33643531297881
+        ]
+      },
+      "properties": {
+        "updated": "2024-10-08T07:30:03.053+02:00",
+        "x": 14.490012579424013,
+        "y": 46.33643531297881,
+        "id": 741010,
+        "EntityId": "9c863aa1-79d6-49d5-ad89-6f0115e3079a",
+        "kategorija": "R1",
+        "cesta": "R1-210, Spodnje Jezersko - Preddvor",
+        "vzrok": "Delo",
+        "opis": "R1-210, Predvor - Sp. Jezersko - Jezerski vrh, v Kokri, izmenično enosmerni promet, sanacija brežine in rekonstrukcija ceste po ujmi, do 1. 9. 2025.",
+        "dodatnoPojasnilo": "sanacija brežine in rekonstrukcija ceste po ujmi",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.382339172588885,
+          45.92835734291053
+        ]
+      },
+      "properties": {
+        "updated": "2024-11-16T14:54:51.767+01:00",
+        "x": 15.382339172588885,
+        "y": 45.92835734291053,
+        "id": 740814,
+        "EntityId": "4d51bf5c-19df-4b99-9b62-fbbab862323a",
+        "kategorija": "R3",
+        "cesta": "R3-672, Zavratec - Smednik",
+        "vzrok": "Delo",
+        "opis": "R3-672, Zavratec - Smednik, izmenično enosmerni promet, izgradnje kanalizacijskega sistema.",
+        "dodatnoPojasnilo": "izgradnje kanalizacijskega sistema",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.973790878006794,
+          46.21452557715176
+        ]
+      },
+      "properties": {
+        "updated": "2024-12-20T10:31:08.383+01:00",
+        "x": 13.973790878006794,
+        "y": 46.21452557715176,
+        "id": 739489,
+        "EntityId": "e8416197-4a61-4efd-9183-6ef5bbac649b",
+        "kategorija": "R2",
+        "cesta": "R2-403, Podbrdo - Petrovo Brdo",
+        "vzrok": "Delo",
+        "opis": "R2-403, Podbrdo - Petrovo Brdo, v Podbrdu, izmenično enosmerni promet, gradnja mostu in prepusta ter rekonstrukcija ceste.",
+        "dodatnoPojasnilo": "gradnja mostu in prepusta ter rekonstrukcija ceste",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.160560950005785,
+          46.696036198690656
+        ]
+      },
+      "properties": {
+        "updated": "2024-11-16T06:18:37.6+01:00",
+        "x": 16.160560950005785,
+        "y": 46.696036198690656,
+        "id": 738570,
+        "EntityId": "08935a79-dae5-4709-ac0c-921acec0f753",
+        "kategorija": "R3",
+        "cesta": "R3-715, Murska Sobota - Skakovci",
+        "vzrok": "Delo",
+        "opis": "R3-715, Murska Sobota - Skakovci, v Puconcih, izmenično enosmerni promet, nadomestna gradnja mostu, do 28. 3. 2025. Ob gradbišču.",
+        "dodatnoPojasnilo": "nadomestna gradnja mostu",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.195924545451247,
+          46.34042451171672
+        ]
+      },
+      "properties": {
+        "updated": "2024-12-27T09:33:08.733+01:00",
+        "x": 14.195924545451247,
+        "y": 46.34042451171672,
+        "id": 737205,
+        "EntityId": "9e260e46-2455-4659-aacd-dd741347c087",
+        "kategorija": "R2",
+        "cesta": "R2-452, Lesce - Črnivec",
+        "vzrok": "Delo",
+        "opis": "R2-452, Radovljica - Črnivec, pri AC priključku Radovljica, izmenično enosmerni promet, rehabilitacija propusta.",
+        "dodatnoPojasnilo": "rehabilitacija propusta",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.433177610453182,
+          46.59429651758112
+        ]
+      },
+      "properties": {
+        "updated": "2024-09-16T13:19:01.273+02:00",
+        "x": 16.433177610453182,
+        "y": 46.59429651758112,
+        "id": 736697,
+        "EntityId": "3f7c5e87-736f-49d6-9b9b-369af6eb0293",
+        "kategorija": "R2",
+        "cesta": "R2-442, Dobrovnik - Rondo Dolga Vas",
+        "vzrok": "Delo",
+        "opis": "R2-442, Dobrovnik - Rondo Dolga vas, pri priključku Dolga Vas, izmenično enosmerni promet, gradnja nadomestnega mostu, do 7. 5. 2025.",
+        "dodatnoPojasnilo": "gradnja nadomestnega mostu ",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.783771332202413,
+          46.46900841295036
+        ]
+      },
+      "properties": {
+        "updated": "2024-09-16T07:25:08.74+02:00",
+        "x": 13.783771332202413,
+        "y": 46.46900841295036,
+        "id": 736593,
+        "EntityId": "7e8e4907-15d6-45d4-acaf-ee4c84ab485b",
+        "kategorija": "R1",
+        "cesta": "R1-206, Kranjska Gora - Erika",
+        "vzrok": "Delo",
+        "opis": "R1-206, Kranjska Gora - Vršič, Vršiška cesta, (jezera Jasna - Vršič), izmenično enosmerni promet, ureditev parkirišč TNP Kranjska Gora, do 2. 6. 2025.",
+        "dodatnoPojasnilo": "ureditev parkirišč TNP Kranjska Gora",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.399076577330739,
+          46.02084735516824
+        ]
+      },
+      "properties": {
+        "updated": "2024-12-20T08:34:59.377+01:00",
+        "x": 14.399076577330739,
+        "y": 46.02084735516824,
+        "id": 735460,
+        "EntityId": "3408c171-890e-46df-b5b8-72eeda31f140",
+        "kategorija": "R2",
+        "cesta": "R2-409, Brezovica - Vrhnika",
+        "vzrok": "Delo",
+        "opis": "R2-409, Brezovica - Vrhnika, Dragomer, oviran promet, izgradnja AC priključka. Obvoz: po delu novozgrajenega AC priključka.",
+        "dodatnoPojasnilo": "izgradnja AC priključka",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.461825205166807,
+          46.30436376276945
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-14T07:31:42.413+01:00",
+        "x": 13.461825205166807,
+        "y": 46.30436376276945,
+        "id": 734398,
+        "EntityId": "29f9a999-7fe1-416e-9d31-7aa209b9fb6a",
+        "kategorija": "R2",
+        "cesta": "R2-401, Žaga - Učja",
+        "vzrok": "Delo",
+        "opis": "R2-401, Žaga - Učja, pri Žagi, izmenično enosmerni promet, rehabilitacija mostu, podpornih zidov in rekonstrukcije ceste, do 30. 6. 2025.",
+        "dodatnoPojasnilo": "rehabilitacija mostu, podpornih zidov in rekonstrukcije ceste",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.944882472016753,
+          46.34686325267371
+        ]
+      },
+      "properties": {
+        "updated": "2024-09-02T08:35:55.05+02:00",
+        "x": 15.944882472016753,
+        "y": 46.34686325267371,
+        "id": 733637,
+        "EntityId": "ad125dcf-fd79-498d-8eff-2ffea91ea9e4",
+        "kategorija": "R3",
+        "cesta": "R3-690, Tržec - Zgornji Leskovec",
+        "vzrok": "Delo",
+        "opis": "R3-690, Tržec - Zg. Leskovec, pri Zgornjem Leskovcu, izmenično enosmerni promet, rehabilitacija objektov po ujmi, do 29. 5. 2025.",
+        "dodatnoPojasnilo": "rehabilitacija objektov po ujmi",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.919882333190442,
+          45.886415213629235
+        ]
+      },
+      "properties": {
+        "updated": "2025-01-30T07:30:23.18+01:00",
+        "x": 13.919882333190442,
+        "y": 45.886415213629235,
+        "id": 733613,
+        "EntityId": "3fdf6441-ceb6-43f4-bcf3-2aed10c31e7b",
+        "kategorija": "R1",
+        "cesta": "R1-207, Col - Ajdovščina",
+        "vzrok": "Delo",
+        "opis": "R1-207, Col - Ajdovščina, v Ajdovščini, oviran promet, ureditev gradbiščnega priključka.",
+        "dodatnoPojasnilo": "ureditev gradbiščnega priključka",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.500673951104748,
+          46.53815167838367
+        ]
+      },
+      "properties": {
+        "updated": "2025-01-30T07:42:36.257+01:00",
+        "x": 16.500673951104748,
+        "y": 46.53815167838367,
+        "id": 732030,
+        "EntityId": "98f4eae7-c274-4825-89c5-e2dd384495e0",
+        "kategorija": "R2",
+        "cesta": "R2-443, Lendava - Pince",
+        "vzrok": "Delo",
+        "opis": "R2-443, Lendava - Pince, na Lendavski cesti, izmenično enosmerni promet, ureditev ceste, do 30. 9. 2025. Dela potekajo na treh odsekih.",
+        "dodatnoPojasnilo": "ureditev ceste",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.638822071587855,
+          46.15724200744503
+        ]
+      },
+      "properties": {
+        "updated": "2024-11-08T08:57:55.85+01:00",
+        "x": 14.638822071587855,
+        "y": 46.15724200744503,
+        "id": 732004,
+        "EntityId": "84dfcdfe-a3c5-4491-803f-92469f524619",
+        "kategorija": "R2",
+        "cesta": "R2-447, Želodnik - Domžale",
+        "vzrok": "Delo",
+        "opis": "R2-447, Želodnik - Domžale, pri Želodniku, izmenično enosmerni promet, popravilo vozišča, do 31. 3. 2025.",
+        "dodatnoPojasnilo": "popravilo vozišča",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.70747832124414,
+          45.94807583976064
+        ]
+      },
+      "properties": {
+        "updated": "2024-08-20T13:25:18.69+02:00",
+        "x": 13.70747832124414,
+        "y": 45.94807583976064,
+        "id": 730763,
+        "EntityId": "ba5ce7f5-a702-45ee-8dcf-b6e62e0892b9",
+        "kategorija": "R2",
+        "cesta": "R2-444, Selo - Nova Gorica",
+        "vzrok": "Delo",
+        "opis": "R2-444, Selo - Ajševica - Vogrsko, pri Ajševici, popolna zapora, promet poteka ob gradbišču, gradnja nadomestnega mostu, do 2. 3. 2025.",
+        "dodatnoPojasnilo": "gradnja nadomestnega mostu",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.40054013522435,
+          45.985331732420505
+        ]
+      },
+      "properties": {
+        "updated": "2024-11-10T21:59:38.373+01:00",
+        "x": 14.40054013522435,
+        "y": 45.985331732420505,
+        "id": 730692,
+        "EntityId": "886a0bc2-fc5f-4862-a561-aed61357fb1a",
+        "kategorija": "R3",
+        "cesta": "R3-742, Podpeč - Brezovica",
+        "vzrok": "Delo",
+        "opis": "R3-742, Brezovica - Podpeč, v Notranjih Goricah, izmenično enosmerni promet, nadomestna gradnja mostu in prepusta, do 4. 5. 2025.",
+        "dodatnoPojasnilo": "nadomestna gradnja mostu in prepusta ",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.941454877422316,
+          46.335505030186894
+        ]
+      },
+      "properties": {
+        "updated": "2024-08-19T08:54:17.68+02:00",
+        "x": 15.941454877422316,
+        "y": 46.335505030186894,
+        "id": 730422,
+        "EntityId": "406623f8-885b-44f1-8789-baba049cfe5a",
+        "kategorija": "NK",
+        "cesta": "NK-690, Tržec - Zgornji Leskovec",
+        "vzrok": "Delo",
+        "opis": "R3-690, Tržec - Zg. Leskovec, pri Spodnjem Leskovcu, izmenično enosmerni promet, rehabilitacija objektov po ujmi, do 29. 5. 2025.",
+        "dodatnoPojasnilo": "rehabilitacija objektov po ujmi",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.27541687140909,
+          46.82017684610056
+        ]
+      },
+      "properties": {
+        "updated": "2024-08-14T08:49:46.647+02:00",
+        "x": 16.27541687140909,
+        "y": 46.82017684610056,
+        "id": 729374,
+        "EntityId": "dc6dade8-711b-4640-91dc-e848febb1a3b",
+        "kategorija": "R1",
+        "cesta": "R1-232, Hodoš - Petrovci",
+        "vzrok": "Delo",
+        "opis": "R1-232, Hodoš - Petrovci, v Šalovcih, izmenično enosmerni promet, nadomestne gradnje mostu, do 30. 3. 2025.",
+        "dodatnoPojasnilo": "nadomestne gradnje mostu",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.868891710550923,
+          46.4995714388546
+        ]
+      },
+      "properties": {
+        "updated": "2024-12-27T09:15:30.877+01:00",
+        "x": 14.868891710550923,
+        "y": 46.4995714388546,
+        "id": 727649,
+        "EntityId": "fa6297c3-1a0a-464c-b38c-db95306cf257",
+        "kategorija": "R2",
+        "cesta": "R2-425, Poljana - Šentvid",
+        "vzrok": "Delo",
+        "opis": "R2-425, Poljana - Šentvid, Polena - Črna na Koroškem, oviran promet, gradnja kolesarske povezave in rekonstrukcije ceste.",
+        "dodatnoPojasnilo": "gradnja kolesarske povezave in rekonstrukcije ceste ",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.132619317038,
+          46.369249057239884
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-04T06:24:54.503+01:00",
+        "x": 15.132619317038,
+        "y": 46.369249057239884,
+        "id": 726035,
+        "EntityId": "670e1121-6bc7-4f13-8395-9b4630b21c02",
+        "kategorija": "G1",
+        "cesta": "G1-4, Gornji Dolič - Velenje",
+        "vzrok": "Delo",
+        "opis": "G1-4, Velenje - Slovenj Gradec, v Velenju, izmenično enosmerni promet, gradnja hitre ceste, do 30. 9. 2025.",
+        "dodatnoPojasnilo": "gradnja hitre ceste ",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.372898790847389,
+          45.947066895183866
+        ]
+      },
+      "properties": {
+        "updated": "2024-12-31T07:26:35.993+01:00",
+        "x": 14.372898790847389,
+        "y": 45.947066895183866,
+        "id": 724469,
+        "EntityId": "715ad75f-e2d5-4f80-b11d-a5f4ba6ccec9",
+        "kategorija": "R3",
+        "cesta": "R3-642, Vrhnika - Podpeč",
+        "vzrok": "Delo",
+        "opis": "R3-642, Vrhnika - Podpeč, Goričica - Pako, izmenično enosmerni promet, rekonstrukcija ceste in izvedba ukrepov za dvoživke, do 1. 7. 2025.",
+        "dodatnoPojasnilo": "rekonstrukcija ceste in izvedba ukrepov za dvoživke",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.391567422360806,
+          46.01785946526575
+        ]
+      },
+      "properties": {
+        "updated": "2024-12-30T10:42:42.76+01:00",
+        "x": 14.391567422360806,
+        "y": 46.01785946526575,
+        "id": 721909,
+        "EntityId": "c4b3a59d-4245-42a1-a5d2-844700d5fc38",
+        "kategorija": "A1",
+        "cesta": "A1-E61, E70, Koper - Ljubljana",
+        "vzrok": "Delo",
+        "opis": "A1, Koper - Ljubljana, priključek Vrhnika - priključek Brezovica v smeri Ljubljane, dela, oviran promet.",
+        "dodatnoPojasnilo": "",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.603672131703936,
+          46.25865807347661
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-04T14:41:16.88+01:00",
+        "x": 14.603672131703936,
+        "y": 46.25865807347661,
+        "id": 721583,
+        "EntityId": "efe8e095-42f1-444b-b379-94c4e9c1ac6f",
+        "kategorija": "R1",
+        "cesta": "R1-225, Kamnik  (Mekinje)  - Stahovica",
+        "vzrok": "Delo",
+        "opis": "R1-225, Kamnik - Stahovica, most v Zgornjih Stranjah, izmenično enosmerni promet, popravilo mostu.",
+        "dodatnoPojasnilo": "popravilo mostu",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.104130327318913,
+          46.04167996042096
+        ]
+      },
+      "properties": {
+        "updated": "2024-08-30T09:49:50.017+02:00",
+        "x": 14.104130327318913,
+        "y": 46.04167996042096,
+        "id": 714683,
+        "EntityId": "4f9901e8-bbd9-433e-b766-ca63c200a4a1",
+        "kategorija": "R2",
+        "cesta": "R2-408, Žiri - Trebija",
+        "vzrok": "Delo",
+        "opis": "R2-408, Žiri - Trebija, v Žireh na Idrijski, Starožirovski in Logaški cesti, izmenično enosmerni promet, ureditev ceste, do 14. 3. 2025.",
+        "dodatnoPojasnilo": "ureditev ceste",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.35141094005169,
+          45.6909822921697
+        ]
+      },
+      "properties": {
+        "updated": "2024-11-29T08:07:14.53+01:00",
+        "x": 15.35141094005169,
+        "y": 45.6909822921697,
+        "id": 709414,
+        "EntityId": "39b7509e-1aff-4efe-915c-fbbd59b53e1d",
+        "kategorija": "R3",
+        "cesta": "R3-663, Radovica - Ostriž",
+        "vzrok": "Delo",
+        "opis": "R3-663, Radovica - Ostriž, v Radovici, izmenično enosmerni promet, gradnja zidu ob cesti.",
+        "dodatnoPojasnilo": "gradnja zidu ob cesti ",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.232446425217017,
+          46.32510703460586
+        ]
+      },
+      "properties": {
+        "updated": "2024-11-18T18:25:34.797+01:00",
+        "x": 15.232446425217017,
+        "y": 46.32510703460586,
+        "id": 709056,
+        "EntityId": "d86b159c-dbfa-4eb6-ac62-c187f1061686",
+        "kategorija": "R2",
+        "cesta": "R2-429, Višnja Vas - Dobrna",
+        "vzrok": "Delo",
+        "opis": "R2-429, Višnja vas - Dobrna, Pristova - Lemberg, izmenično enosmerni promet, izgradnje kolesarske steze, do 30. 5. 2025.",
+        "dodatnoPojasnilo": "izgradnje kolesarske steze",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.042992443186584,
+          45.924747468474756
+        ]
+      },
+      "properties": {
+        "updated": "2024-10-30T11:25:43.99+01:00",
+        "x": 14.042992443186584,
+        "y": 45.924747468474756,
+        "id": 701280,
+        "EntityId": "fa618020-67a5-4807-a7fd-7485fd373847",
+        "kategorija": "R1",
+        "cesta": "R1-207, Črni Vrh - Col",
+        "vzrok": "Delo",
+        "opis": "R1-207, Col - Črni Vrh - Godovič, v Črnem Vrhu, izmenično enosmerni promet, popravilo vozišča.",
+        "dodatnoPojasnilo": "popravilo vozišča",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.968535050040542,
+          46.08563983895523
+        ]
+      },
+      "properties": {
+        "updated": "2024-10-30T11:23:16.853+01:00",
+        "x": 13.968535050040542,
+        "y": 46.08563983895523,
+        "id": 701279,
+        "EntityId": "33e8502b-0277-45a6-83c7-8482873e99ca",
+        "kategorija": "G2",
+        "cesta": "G2-102, Želin - Spodnja Idrija",
+        "vzrok": "Delo",
+        "opis": "G2-102, Tolmin - Sp. Idrija, pri Plužnjah, izmenično enosmerni promet, podiranje podpornega zidu.",
+        "dodatnoPojasnilo": "podiranje podpornega zidu",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.05372315098468,
+          45.96785111108751
+        ]
+      },
+      "properties": {
+        "updated": "2024-10-30T11:21:01.877+01:00",
+        "x": 14.05372315098468,
+        "y": 45.96785111108751,
+        "id": 701278,
+        "EntityId": "cdfaeada-01ec-42e6-9dbf-2a300e217c2b",
+        "kategorija": "G2",
+        "cesta": "G2-102, Spodnja Idrija - Godovič",
+        "vzrok": "Delo",
+        "opis": "G2-102, Sp. Idrija - Godovič, pri Jeličnem Vrhu, izmenično enosmerni promet, usad vozišča in bankine.",
+        "dodatnoPojasnilo": "usad vozišča in bankine",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.020498952289707,
+          46.42455244629817
+        ]
+      },
+      "properties": {
+        "updated": "2024-12-10T09:18:46.507+01:00",
+        "x": 15.020498952289707,
+        "y": 46.42455244629817,
+        "id": 695363,
+        "EntityId": "c305f68c-5d9c-4d4f-8a4e-cf0759504b2b",
+        "kategorija": "R2",
+        "cesta": "R2-425, Šentvid - Šoštanj",
+        "vzrok": "Delo",
+        "opis": "R2-425, Šentvid - Šoštanj, pri Zavodnju, izmenično enosmerni promet, pomična zapora, obnova cestišča, na dveh odsekih, do 31. 5. 2025.",
+        "dodatnoPojasnilo": "obnova cestišča, na dveh odsekih",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.900546271371603,
+          46.54618745020294
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-12T07:21:37.937+01:00",
+        "x": 14.900546271371603,
+        "y": 46.54618745020294,
+        "id": 695191,
+        "EntityId": "68a83387-d5dc-4d8d-95b6-5253ee227a1e",
+        "kategorija": "G2",
+        "cesta": "G2-112, Poljana - Ravne",
+        "vzrok": "Delo",
+        "opis": "G2-112, Poljana - Ravne, pri Prevaljah, oviran promet, popravilo poškodovanega cestišča.",
+        "dodatnoPojasnilo": "popravilo poškodovanega cestišča",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.94151302141083,
+          46.32278134148484
+        ]
+      },
+      "properties": {
+        "updated": "2024-11-29T07:47:05.723+01:00",
+        "x": 15.94151302141083,
+        "y": 46.32278134148484,
+        "id": 687890,
+        "EntityId": "9b403955-adb0-4525-92f4-c402b11fa636",
+        "kategorija": "NK",
+        "cesta": "NK-690, Tržec - Zgornji Leskovec",
+        "vzrok": "Delo",
+        "opis": "R3-690, Zg. Leskovec - MP Zgornji Leskovec, v Mali Varnici, izmenično enosmerni promet, urejanje brežin. Na več odsekih.",
+        "dodatnoPojasnilo": "urejanje brežin",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.246285242681395,
+          46.359348505190034
+        ]
+      },
+      "properties": {
+        "updated": "2024-12-27T09:46:46.743+01:00",
+        "x": 14.246285242681395,
+        "y": 46.359348505190034,
+        "id": 687754,
+        "EntityId": "b0dcd4d8-60af-47b7-910c-b95f2497b1ad",
+        "kategorija": "R3",
+        "cesta": "R3-638, Begunje - Bistrica  (Tržič)",
+        "vzrok": "Delo",
+        "opis": "R3-638, Begunje - Bistrica (Tržič), Zadnja vas - Paloviče, izmenično enosmerni promet, nevarnost plazov.",
+        "dodatnoPojasnilo": "nevarnost plazov",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.41133750590393,
+          46.02143472090482
+        ]
+      },
+      "properties": {
+        "updated": "2024-12-30T10:40:34.297+01:00",
+        "x": 14.41133750590393,
+        "y": 46.02143472090482,
+        "id": 686516,
+        "EntityId": "3509ed5e-b740-4107-9f4d-b8b4eb4d784b",
+        "kategorija": "A1",
+        "cesta": "A1-E61, E70, Ljubljana - Koper",
+        "vzrok": "Delo",
+        "opis": "A1, Ljubljana - Koper, priključek Brezovica - priključek Vrhnika v smeri Kopra, dela, oviran promet.",
+        "dodatnoPojasnilo": "",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.837235987799382,
+          45.70074977017024
+        ]
+      },
+      "properties": {
+        "updated": "2024-12-30T07:34:52.587+01:00",
+        "x": 13.837235987799382,
+        "y": 45.70074977017024,
+        "id": 678460,
+        "EntityId": "402f94e8-9e60-4678-a975-b1979949ca55",
+        "kategorija": "A3",
+        "cesta": "A3-E70, E61, Fernetiči - razcep Gabrk",
+        "vzrok": "Delo",
+        "opis": "A3, Fernetiči - razcep Gabrk, prehod Fernetiči v smeri Fernetičev, Italije, dela, zaprt prehitevalni pas.",
+        "dodatnoPojasnilo": "",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.582819520818246,
+          46.25522937949163
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-10T07:35:46.26+01:00",
+        "x": 13.582819520818246,
+        "y": 46.25522937949163,
+        "id": 675186,
+        "EntityId": "78345ee6-4ca3-4d24-90bb-b4e8e7af4231",
+        "kategorija": "R1",
+        "cesta": "R1-203, Žaga - Kobarid",
+        "vzrok": "Delo",
+        "opis": "R1-203, Žaga - Kobarid, pri Trnovem ob Soči, izmenično enosmerni promet, rekonstrukcija ceste in zaščite brežin, do 20. 5. 2025.",
+        "dodatnoPojasnilo": "rekonstrukcija ceste in zaščite brežin",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.865370707736488,
+          46.15693374696146
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-26T07:36:46.5+01:00",
+        "x": 13.865370707736488,
+        "y": 46.15693374696146,
+        "id": 669999,
+        "EntityId": "b998d8a4-2ffe-4925-aad0-a5e3e9b6e1af",
+        "kategorija": "R2",
+        "cesta": "R2-403, Kneža - Podbrdo",
+        "vzrok": "Delo",
+        "opis": "R2-403, Kneža - Podbrdo, v Grahovem ob Bači, izmenično enosmerni promet, sanacije plazov Grahovo, do 25. 9. 2025.",
+        "dodatnoPojasnilo": "sanacije plazov Grahovo",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.859960349383574,
+          46.53657017070049
+        ]
+      },
+      "properties": {
+        "updated": "2025-01-30T05:58:23.453+01:00",
+        "x": 14.859960349383574,
+        "y": 46.53657017070049,
+        "id": 669455,
+        "EntityId": "a3a9b5fd-a061-42b8-abdf-0f4c7220fcdf",
+        "kategorija": "R2",
+        "cesta": "R2-425, Poljana - Šentvid",
+        "vzrok": "Delo",
+        "opis": "R2-425, Poljana - Šentvid, izmenično enosmerni promet, ureditev zalednih grap plazu in sanacija ceste, do 30. 5. 2025.",
+        "dodatnoPojasnilo": "ureditev zalednih grap plazu in sanacija ceste",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.185100976533757,
+          45.77042391409206
+        ]
+      },
+      "properties": {
+        "updated": "2024-11-03T06:08:58.29+01:00",
+        "x": 14.185100976533757,
+        "y": 45.77042391409206,
+        "id": 664535,
+        "EntityId": "bae569a8-1968-4002-a0e8-706d2f2fb826",
+        "kategorija": "R2",
+        "cesta": "R2-409, Postojna - Razdrto",
+        "vzrok": "Delo",
+        "opis": "R2-409, Postojna - Razdrto, v Postojni, na Tržaški cesti, izmenično enosmerni promet, nadomestna gradnja mostu, do 30. 4. 2025.",
+        "dodatnoPojasnilo": "nadomestna gradnja mostu",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.11161393881976,
+          46.37412265796777
+        ]
+      },
+      "properties": {
+        "updated": "2025-01-13T09:03:56.537+01:00",
+        "x": 15.11161393881976,
+        "y": 46.37412265796777,
+        "id": 655252,
+        "EntityId": "3fc3cc52-de48-4913-94cf-e8e71ce19dd0",
+        "kategorija": "R3",
+        "cesta": "R3-696, Velenje - Škale",
+        "vzrok": "Delo",
+        "opis": "R3-696, Velenje - Škale, v Velenju, oviran promet, izvedbe nove cestne povezave, do 30. 9. 2025.",
+        "dodatnoPojasnilo": "izvedbe nove cestne povezave",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.335794712132643,
+          45.94061133846209
+        ]
+      },
+      "properties": {
+        "updated": "2024-11-11T08:15:52.547+01:00",
+        "x": 14.335794712132643,
+        "y": 45.94061133846209,
+        "id": 652576,
+        "EntityId": "e53a4fab-3289-4508-9308-53149585a9ca",
+        "kategorija": "R3",
+        "cesta": "R3-642, Vrhnika - Podpeč",
+        "vzrok": "Delo",
+        "opis": "R3-642, Vrhnika - Podpeč, pri Bistri, izmenično enosmerni promet, rekonstrukcije ceste in izvedbe ukrepov za dvoživke.",
+        "dodatnoPojasnilo": "rekonstrukcije ceste in izvedbe ukrepov za dvoživke",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.614295629847204,
+          46.679713449490805
+        ]
+      },
+      "properties": {
+        "updated": "2024-12-30T09:38:10.92+01:00",
+        "x": 15.614295629847204,
+        "y": 46.679713449490805,
+        "id": 647025,
+        "EntityId": "05e7ad81-0954-4c6a-9fde-60232154369f",
+        "kategorija": "R3",
+        "cesta": "R3-708, Zgornja Kungota - Plač  (Mejni Prehod)",
+        "vzrok": "Delo",
+        "opis": "R3-708, Zg. Kungota - Plač, oviran promet, prepovedano za vozila nad 7,5t (ujma2023).",
+        "dodatnoPojasnilo": "prepovedano za vozila nad 7,5t (ujma2023)",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.624939987927887,
+          45.91969286754094
+        ]
+      },
+      "properties": {
+        "updated": "2024-12-30T07:34:20.75+01:00",
+        "x": 13.624939987927887,
+        "y": 45.91969286754094,
+        "id": 631504,
+        "EntityId": "35ee8693-af4f-4131-a5cc-765da233626a",
+        "kategorija": "H4",
+        "cesta": "H4 , Razdrto - Nova Gorica",
+        "vzrok": "Delo",
+        "opis": "H4, Razdrto - Nova Gorica, prehod Vrtojba v smeri Vrtojbe, Italije, dela, zaprt prehitevalni pas.",
+        "dodatnoPojasnilo": "",
+        "IsConfirmed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.977227014941917,
+          46.11132214118934
+        ]
+      },
+      "properties": {
+        "updated": "2025-02-22T17:08:01.383+01:00",
+        "x": 14.977227014941917,
+        "y": 46.11132214118934,
+        "id": 611021,
+        "EntityId": "31b40548-5452-48aa-8b0c-c4ac85e6e14c",
+        "kategorija": "G2",
+        "cesta": "G2-108, Litija - Zagorje",
+        "vzrok": "Delo",
+        "opis": "G2-108, Litija - Zagorje, izmenično enosmerni promet, sanacije brežin in izgradnje galerije Šklendrovec. Možne so kratkorajne popolne zapore.",
+        "dodatnoPojasnilo": "sanacije brežin in izgradnje galerije Šklendrovec",
+        "IsConfirmed": true
+      }
+    }
+  ],
+  "properties": {
+    "LastUpdateTS": "2025-02-26T07:13:55.913Z",
+    "PeriodFrom": "2025-02-26T15:36:25.7924705Z",
+    "PeriodTo": "2025-02-26T15:36:25.7924705Z",
+    "Language": "sl_SI"
+  }
+}
