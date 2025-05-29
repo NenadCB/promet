@@ -9,7 +9,7 @@ Srečanja:
 2. srečanje:
    - Delo z besedilnimi datotekami (.csv) in seznami
    - Risanje grafov
-   - Uvod v knjižnico Pandas
+   - Uvod v delo s tabelaričnimi podatki
   
 3. srečanje:
    - Delo z Excel datotekami
